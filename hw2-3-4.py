@@ -8,7 +8,7 @@ total_pop = origin_pop + (days * pop_per_day)
 
 print(total_pop)
 
-#thought process: Septmeber 23rd 2020 - US pop = 331832432
+# thought process: Septmeber 23rd 2020 - US pop = 331832432
 # estimate pop per day 13824 ( one every 25 seconds)
-#total days since spetember 23rd 2020 - 367 leap year
-#origin pop + (days * pop per day)
+# total days since spetember 23rd 2020 - 367 leap year
+# origin pop + (days * pop per day)
